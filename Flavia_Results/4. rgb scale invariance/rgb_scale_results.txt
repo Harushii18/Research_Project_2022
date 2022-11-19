@@ -1,0 +1,40 @@
+TEST RESULTS:
+
+RGB Scale Invariant Features Test accuracy:0.9162790697674419
+
+
+Accuracy per class:
+
+
+Anhui Barberry : 0.8571428571428571
+Beale's barberry : 1.0
+Big-fruited Holly : 0.6
+Camphortree : 0.8571428571428571
+Canadian poplar : 0.7142857142857143
+Castor aralia : 1.0
+Chinese Toon : 0.8571428571428571
+Chinese cinnamon : 0.8333333333333334
+Chinese horse chestnut : 0.8571428571428571
+Chinese redbud : 1.0
+Chinese tulip tree : 1.0
+Crepe myrtle : 1.0
+Deodar : 1.0
+Ford Woodlotus : 0.8333333333333334
+Glossy Privet : 1.0
+Goldenrain tree : 0.8571428571428571
+Japan Arrowwood : 1.0
+Japanese Flowering Cherry : 0.8333333333333334
+Japanese Maple : 1.0
+Japanese cheesewood : 1.0
+Nanmu : 1.0
+Oleander : 1.0
+Peach : 0.6666666666666666
+Pubescent bamboo : 1.0
+Southern magnolia : 1.0
+Sweet osmanthus : 0.8571428571428571
+Tangerine : 0.8571428571428571
+Trident maple : 0.8333333333333334
+True indigo : 1.0
+Wintersweet : 1.0
+Yew plum pine : 0.8333333333333334
+ginkgo maidenhair tree : 1.0

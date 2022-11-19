@@ -1,0 +1,40 @@
+TEST RESULTS:
+
+RGB Best HSV Feature Test accuracy:0.8744186046511628
+
+
+Accuracy per class:
+
+
+Anhui Barberry : 0.7142857142857143
+Beale's barberry : 1.0
+Big-fruited Holly : 1.0
+Camphortree : 0.5714285714285714
+Canadian poplar : 1.0
+Castor aralia : 1.0
+Chinese Toon : 0.8571428571428571
+Chinese cinnamon : 0.6666666666666666
+Chinese horse chestnut : 0.8571428571428571
+Chinese redbud : 0.5
+Chinese tulip tree : 1.0
+Crepe myrtle : 1.0
+Deodar : 1.0
+Ford Woodlotus : 1.0
+Glossy Privet : 0.6666666666666666
+Goldenrain tree : 0.7142857142857143
+Japan Arrowwood : 1.0
+Japanese Flowering Cherry : 0.6666666666666666
+Japanese Maple : 1.0
+Japanese cheesewood : 0.8571428571428571
+Nanmu : 1.0
+Oleander : 1.0
+Peach : 0.3333333333333333
+Pubescent bamboo : 1.0
+Southern magnolia : 0.7142857142857143
+Sweet osmanthus : 1.0
+Tangerine : 1.0
+Trident maple : 1.0
+True indigo : 0.875
+Wintersweet : 1.0
+Yew plum pine : 1.0
+ginkgo maidenhair tree : 1.0

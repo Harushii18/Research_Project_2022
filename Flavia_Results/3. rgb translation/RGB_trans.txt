@@ -1,0 +1,40 @@
+TEST RESULTS:
+
+RGB Translation Invariant Features Test accuracy:0.9395348837209302
+
+
+Accuracy per class:
+
+
+Anhui Barberry : 1.0
+Beale's barberry : 0.8333333333333334
+Big-fruited Holly : 1.0
+Camphortree : 0.8571428571428571
+Canadian poplar : 1.0
+Castor aralia : 1.0
+Chinese Toon : 0.7142857142857143
+Chinese cinnamon : 0.6666666666666666
+Chinese horse chestnut : 0.8571428571428571
+Chinese redbud : 1.0
+Chinese tulip tree : 1.0
+Crepe myrtle : 1.0
+Deodar : 1.0
+Ford Woodlotus : 0.8333333333333334
+Glossy Privet : 1.0
+Goldenrain tree : 1.0
+Japan Arrowwood : 0.8333333333333334
+Japanese Flowering Cherry : 1.0
+Japanese Maple : 1.0
+Japanese cheesewood : 1.0
+Nanmu : 1.0
+Oleander : 1.0
+Peach : 1.0
+Pubescent bamboo : 1.0
+Southern magnolia : 1.0
+Sweet osmanthus : 0.8571428571428571
+Tangerine : 0.8571428571428571
+Trident maple : 1.0
+True indigo : 0.875
+Wintersweet : 0.8333333333333334
+Yew plum pine : 1.0
+ginkgo maidenhair tree : 1.0

@@ -1,0 +1,40 @@
+TEST RESULTS:
+
+RGB Best Grayscale Feature Test accuracy:0.8930232558139535
+
+
+Accuracy per class:
+
+
+Anhui Barberry : 1.0
+Beale's barberry : 1.0
+Big-fruited Holly : 0.6
+Camphortree : 0.5714285714285714
+Canadian poplar : 1.0
+Castor aralia : 1.0
+Chinese Toon : 0.5714285714285714
+Chinese cinnamon : 0.16666666666666666
+Chinese horse chestnut : 0.8571428571428571
+Chinese redbud : 1.0
+Chinese tulip tree : 1.0
+Crepe myrtle : 1.0
+Deodar : 1.0
+Ford Woodlotus : 1.0
+Glossy Privet : 1.0
+Goldenrain tree : 1.0
+Japan Arrowwood : 1.0
+Japanese Flowering Cherry : 0.8333333333333334
+Japanese Maple : 1.0
+Japanese cheesewood : 1.0
+Nanmu : 1.0
+Oleander : 1.0
+Peach : 0.6666666666666666
+Pubescent bamboo : 1.0
+Southern magnolia : 0.8571428571428571
+Sweet osmanthus : 1.0
+Tangerine : 1.0
+Trident maple : 0.8333333333333334
+True indigo : 0.75
+Wintersweet : 0.8333333333333334
+Yew plum pine : 0.8333333333333334
+ginkgo maidenhair tree : 1.0
