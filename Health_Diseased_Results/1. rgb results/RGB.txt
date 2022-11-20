@@ -1,30 +1,30 @@
 TEST RESULTS:
 
-RGB Test accuracy:0.760593220338983
+RGB Test accuracy:0.7564102564102564
 
 
 Accuracy per class:
 
 
-Alstonia Scholaris Diseased : 0.8461538461538461
-Alstonia Scholaris Healthy : 0.6666666666666666
-Arjun Diseased : 0.8
-Arjun Healthy : 0.7727272727272727
-Bael Diseased : 0.8461538461538461
-Basil Healthy : 0.8
-Chinar Diseased : 0.6666666666666666
-Chinar Healthy : 0.4166666666666667
-Gauva Diseased : 0.7333333333333333
-Gauva Healthy : 0.7931034482758621
+Alstonia Scholaris Diseased : 0.8076923076923077
+Alstonia Scholaris Healthy : 0.47368421052631576
+Arjun Diseased : 0.6666666666666666
+Arjun Healthy : 0.8181818181818182
+Bael Diseased : 0.9230769230769231
+Basil Healthy : 0.6875
+Chinar Diseased : 0.8333333333333334
+Chinar Healthy : 0.5454545454545454
+Gauva Diseased : 0.6666666666666666
+Gauva Healthy : 0.7586206896551724
 Jamun Diseased : 0.6857142857142857
-Jamun Healthy : 0.8571428571428571
-Jatropha Diseased : 0.46153846153846156
-Jatropha Healthy : 0.7142857142857143
-Lemon Diseased : 0.6666666666666666
-Lemon Healthy : 0.05555555555555555
-Mango Diseased : 1.0
-Mango Healthy : 0.7777777777777778
-Pomegranate Diseased : 1.0
-Pomegranate Healthy : 0.6451612903225806
+Jamun Healthy : 0.8275862068965517
+Jatropha Diseased : 0.5384615384615384
+Jatropha Healthy : 0.9285714285714286
+Lemon Diseased : 0.1111111111111111
+Lemon Healthy : 0.8823529411764706
+Mango Diseased : 0.8888888888888888
+Mango Healthy : 0.8235294117647058
+Pomegranate Diseased : 0.75
+Pomegranate Healthy : 0.7333333333333333
 Pongamia Pinnata Diseased : 0.9655172413793104
-Pongamia Pinnata Healthy : 0.8571428571428571
+Pongamia Pinnata Healthy : 0.7878787878787878

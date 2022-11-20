@@ -1,30 +1,30 @@
 TEST RESULTS:
 
-Best Grayscale Test accuracy:0.7055084745762712
+Best Grayscale Test accuracy:0.7414529914529915
 
 
 Accuracy per class:
 
 
-Alstonia Scholaris Diseased : 0.8518518518518519
-Alstonia Scholaris Healthy : 0.7647058823529411
-Arjun Diseased : 0.64
-Arjun Healthy : 0.8636363636363636
+Alstonia Scholaris Diseased : 0.8461538461538461
+Alstonia Scholaris Healthy : 0.631578947368421
+Arjun Diseased : 0.7083333333333334
+Arjun Healthy : 0.9090909090909091
 Bael Diseased : 0.9230769230769231
-Basil Healthy : 0.6470588235294118
+Basil Healthy : 0.8125
 Chinar Diseased : 0.9166666666666666
-Chinar Healthy : 0.45454545454545453
-Gauva Diseased : 0.7333333333333333
-Gauva Healthy : 0.7241379310344828
-Jamun Diseased : 0.5405405405405406
-Jamun Healthy : 0.8275862068965517
-Jatropha Diseased : 0.42857142857142855
-Jatropha Healthy : 0.5
+Chinar Healthy : 0.5454545454545454
+Gauva Diseased : 0.8
+Gauva Healthy : 0.6896551724137931
+Jamun Diseased : 0.8571428571428571
+Jamun Healthy : 0.7241379310344828
+Jatropha Diseased : 0.38461538461538464
+Jatropha Healthy : 0.7857142857142857
 Lemon Diseased : 0.5555555555555556
 Lemon Healthy : 0.29411764705882354
-Mango Diseased : 0.8928571428571429
+Mango Diseased : 0.9259259259259259
 Mango Healthy : 0.5882352941176471
-Pomegranate Diseased : 0.6071428571428571
-Pomegranate Healthy : 0.7419354838709677
+Pomegranate Diseased : 0.6428571428571429
+Pomegranate Healthy : 0.6666666666666666
 Pongamia Pinnata Diseased : 0.7586206896551724
-Pongamia Pinnata Healthy : 0.8484848484848485
+Pongamia Pinnata Healthy : 0.9090909090909091

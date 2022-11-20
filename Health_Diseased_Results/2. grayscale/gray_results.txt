@@ -1,6 +1,6 @@
 TEST RESULTS:
 
-Grayscale Test accuracy:0.7309322033898306
+Grayscale Test accuracy:0.7307692307692307
 
 
 Accuracy per class:
@@ -8,7 +8,7 @@ Accuracy per class:
 
 Alstonia Scholaris Diseased : 0.8846153846153846
 Alstonia Scholaris Healthy : 0.21052631578947367
-Arjun Diseased : 0.84
+Arjun Diseased : 0.8333333333333334
 Arjun Healthy : 0.7727272727272727
 Bael Diseased : 0.9230769230769231
 Basil Healthy : 0.75
@@ -18,7 +18,7 @@ Gauva Diseased : 0.7333333333333333
 Gauva Healthy : 0.896551724137931
 Jamun Diseased : 0.8
 Jamun Healthy : 0.6896551724137931
-Jatropha Diseased : 0.5
+Jatropha Diseased : 0.5384615384615384
 Jatropha Healthy : 0.7857142857142857
 Lemon Diseased : 0.3333333333333333
 Lemon Healthy : 0.5294117647058824
@@ -26,5 +26,5 @@ Mango Diseased : 0.9629629629629629
 Mango Healthy : 0.8823529411764706
 Pomegranate Diseased : 0.6071428571428571
 Pomegranate Healthy : 0.6
-Pongamia Pinnata Diseased : 0.9
-Pongamia Pinnata Healthy : 0.7352941176470589
+Pongamia Pinnata Diseased : 0.896551724137931
+Pongamia Pinnata Healthy : 0.7272727272727273
