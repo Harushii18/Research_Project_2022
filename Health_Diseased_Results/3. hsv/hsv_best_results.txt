@@ -1,0 +1,30 @@
+TEST RESULTS:
+
+Best HSV Test accuracy:0.7711864406779662
+
+
+Accuracy per class:
+
+
+Alstonia Scholaris Diseased : 0.9230769230769231
+Alstonia Scholaris Healthy : 0.8888888888888888
+Arjun Diseased : 0.76
+Arjun Healthy : 0.9545454545454546
+Bael Diseased : 0.8461538461538461
+Basil Healthy : 0.8
+Chinar Diseased : 0.8333333333333334
+Chinar Healthy : 0.4166666666666667
+Gauva Diseased : 0.5333333333333333
+Gauva Healthy : 0.8275862068965517
+Jamun Diseased : 0.6486486486486487
+Jamun Healthy : 0.8275862068965517
+Jatropha Diseased : 0.7142857142857143
+Jatropha Healthy : 0.26666666666666666
+Lemon Diseased : 0.7
+Lemon Healthy : 0.7058823529411765
+Mango Diseased : 0.9629629629629629
+Mango Healthy : 0.8888888888888888
+Pomegranate Diseased : 0.7692307692307693
+Pomegranate Healthy : 0.6333333333333333
+Pongamia Pinnata Diseased : 0.7931034482758621
+Pongamia Pinnata Healthy : 0.8787878787878788

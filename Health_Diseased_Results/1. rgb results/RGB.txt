@@ -1,0 +1,30 @@
+TEST RESULTS:
+
+RGB Test accuracy:0.760593220338983
+
+
+Accuracy per class:
+
+
+Alstonia Scholaris Diseased : 0.8461538461538461
+Alstonia Scholaris Healthy : 0.6666666666666666
+Arjun Diseased : 0.8
+Arjun Healthy : 0.7727272727272727
+Bael Diseased : 0.8461538461538461
+Basil Healthy : 0.8
+Chinar Diseased : 0.6666666666666666
+Chinar Healthy : 0.4166666666666667
+Gauva Diseased : 0.7333333333333333
+Gauva Healthy : 0.7931034482758621
+Jamun Diseased : 0.6857142857142857
+Jamun Healthy : 0.8571428571428571
+Jatropha Diseased : 0.46153846153846156
+Jatropha Healthy : 0.7142857142857143
+Lemon Diseased : 0.6666666666666666
+Lemon Healthy : 0.05555555555555555
+Mango Diseased : 1.0
+Mango Healthy : 0.7777777777777778
+Pomegranate Diseased : 1.0
+Pomegranate Healthy : 0.6451612903225806
+Pongamia Pinnata Diseased : 0.9655172413793104
+Pongamia Pinnata Healthy : 0.8571428571428571

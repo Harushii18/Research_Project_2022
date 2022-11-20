@@ -1,0 +1,30 @@
+TEST RESULTS:
+
+Best Rotationally Invariant Features Test accuracy:0.836864406779661
+
+
+Accuracy per class:
+
+
+Alstonia Scholaris Diseased : 0.9259259259259259
+Alstonia Scholaris Healthy : 0.8333333333333334
+Arjun Diseased : 1.0
+Arjun Healthy : 0.8181818181818182
+Bael Diseased : 0.7857142857142857
+Basil Healthy : 0.9375
+Chinar Diseased : 0.8181818181818182
+Chinar Healthy : 0.6363636363636364
+Gauva Diseased : 0.9333333333333333
+Gauva Healthy : 0.9666666666666667
+Jamun Diseased : 0.9142857142857143
+Jamun Healthy : 0.4827586206896552
+Jatropha Diseased : 0.5384615384615384
+Jatropha Healthy : 0.7142857142857143
+Lemon Diseased : 0.3333333333333333
+Lemon Healthy : 1.0
+Mango Diseased : 0.9285714285714286
+Mango Healthy : 0.8235294117647058
+Pomegranate Diseased : 1.0
+Pomegranate Healthy : 0.7419354838709677
+Pongamia Pinnata Diseased : 0.9333333333333333
+Pongamia Pinnata Healthy : 0.7878787878787878
