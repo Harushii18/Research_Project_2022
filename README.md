@@ -22,6 +22,8 @@ This project will not run without the datasets it is trained on. The code makes 
 
 A CNN was used and tested with various features as well as data augmentation techniques using [ImageDataGenerator](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator).
 
+**Please refer to the Research Report for further details.**
+
 
 <li>Additional notes:
 
@@ -29,7 +31,7 @@ Although Transfer Learning was attempted, as seen in this repository, it was not
 
 
 
-**Please refer to the Research Report for further details.**
+
 
 
 
